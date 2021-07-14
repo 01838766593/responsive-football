@@ -158,21 +158,15 @@ margin-top: 10px;
     width: 1440px;
     height: 700px;
 }
-.card img {
-    width: 400px;
-    height: 600px;
-    padding-left: 600px;
-    background:no-repeat;
-    display: inline-block;
+.video{
+    padding-left: 30%;
 }
-.card:hover {
-    background: url("images/match.png") no-repeat;
-}
+
 /* section3 style */
 .container3{
     background-color: rgba(238, 229, 229, 0.801);
     width: 1440px;
-    height: 120px;
+    height: 80px;
     
  }
 .football-image img{
@@ -230,8 +224,8 @@ margin-top: 10px;
         height:100%;   
         padding-right: 20%;
     }
-    
-    .navigation, .blogs, .grow-list, .transition, .football, .whole-footer{
+  
+    .navigation,.blogs,.grow-list, .transition, .football, .whole-footer{
         grid-template-columns: repeat(1,1fr) ;
 
     }
