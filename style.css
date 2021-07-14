@@ -158,8 +158,9 @@ margin-top: 10px;
     width: 1440px;
     height: 700px;
 }
-.video{
+.video iframe{
     padding-left: 30%;
+    padding-right: 30%;
 }
 
 /* section3 style */
